@@ -1,0 +1,261 @@
+[
+    {
+        "id": "2",
+        "name": "University of California, Berkeley",
+        "image": "https://www.universityofcalifornia.edu/sites/default/files/styles/collage_4_item_large_wide/public/2021-11/2018_04_11_UCB_day3-136.jpg?h=f2fcf546&itok=mNHnHPXz",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "University of California, Berkeley, located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      },
+    {
+        "id": "2",
+        "name": "Massachusetts Institute of Technology (MIT)",
+        "image": "https://images.shiksha.com/mediadata/images/1533214461phpBhEKbO.jpeg",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "Massachusetts Institute of Technology (MIT), located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      },
+    {
+        "id": "2",
+        "name": "University of Cambridge",
+        "image": "https://media.istockphoto.com/id/611591082/sv/foto/historic-college-building-in-cambridge-united-kingdom.jpg?s=612x612&w=0&k=20&c=mHoaJ3lcU9CkU9TjMCxte2pw3B6BuQ-MF6q76xV0DYs=",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "University of Cambridge, located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      },
+    {
+        "id": "2",
+        "name": "Oxford University",
+        "image": "https://images.unsplash.com/photo-1612563958093-2c3bcfbd8760?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8b3hmb3JkJTIwdW5pdmVyc2l0eXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "Oxford University, located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      },
+    {
+        "id": "2",
+        "name": "Harvard University",
+        "image": "https://www.hillel.org/wp-content/uploads/college-images/Harvard_University.png",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "Harvard University, located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      },
+    {
+        "id": "2",
+        "name": "Stanford University",
+        "image": "https://cdn.britannica.com/25/121725-050-8BF363EC/Hoover-Tower-Stanford-University-California.jpg",
+        "rating": "4.9",
+        "admissionDate": "15-9-23",
+        "researchNumber": "92",
+        "collegeDesc": "Stanford University, located in Stanford, California, USA, is one of the world's leading research institutions. Founded in 1885, Stanford has established itself as a prominent center for innovation, entrepreneurship, and academic excellence. The university offers a wide range of undergraduate and graduate programs across various disciplines, and its faculty includes numerous Nobel laureates and other distinguished scholars. With state-of-the-art facilities and a rich intellectual environment, Stanford provides students with exceptional opportunities for personal and academic growth.",
+        "events": [
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Annual Tech Symposium",
+            "eventDesc": "A major technology-focused event featuring keynote speakers, workshops, and technology showcases."
+          },
+          {
+            "eventImg": "hhttps://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Spring Cultural Fair",
+            "eventDesc": "A celebration of diverse cultures with food, performances, and cultural displays from around the world."
+          },
+          {
+            "eventImg": "https://cardinalatwork.stanford.edu/sites/cardinalatwork/files/styles/responsive_large/public/media/image/healthytastestanford_130501-1027_0.png?itok=OTG7CSZN",
+            "eventname": "Innovation Challenge",
+            "eventDesc": "A competition where students pitch innovative ideas and solutions to real-world problems."
+          }
+        ],
+        "sports": [
+          {
+            "sportsname": "Soccer",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Soccer, also known as football in many parts of the world, is a popular team sport played globally."
+          },
+          {
+            "sportsname": "Swimming",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Swimming is a well-loved individual sport that promotes fitness and overall well-being."
+          },
+          {
+            "sportsname": "Tennis",
+            "sportsImg": "https://facts.stanford.edu/wp-content/uploads/sites/20/2020/02/032-IMG_1439.jpg",
+            "sportsDesc": "Tennis is a challenging racquet sport that requires agility, strategy, and precision."
+          }
+        ]
+      }
+      
+]

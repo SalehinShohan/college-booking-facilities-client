@@ -1,0 +1,36 @@
+ul a{
+    position: relative;
+    display: inline-block;
+}
+ul a::after{
+    content: '';
+    width: 0%;
+    height: 3px;
+    background-color: #f46565;
+    transition: 0.5s ease;
+    display: block;
+    margin: auto;
+}
+ul a:hover::after{
+    width: 100%;
+}
+
+/* Banner section */
+.banner-img{
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)), url('../../../assets/images/Background-img/bgimg.jpg');
+    width: 100%;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 600px){
+    ul a{
+        display: block;
+    }
+}
+
+nav a.active{
+    color: #f46565;
+}
